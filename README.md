@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Hawari. I build bilingual (EN/ID), accessible web apps, and I teach in Jakarta.
 
-<!--
-**haware-you/haware-you** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selected work
 
-Here are some ideas to get you started:
+- peta-nusantara: interactive map of Indonesian history
+- tahsin-progress: Quran tahsin progress tracker for schools
+- learn-verse-of-quran: daily ayah learning challenge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack: Astro, React, Next.js, TypeScript, Tailwind, Supabase
+
+Languages: Indonesian, English, Arabic, Sundanese
+
+Portfolio: https://hawaree-portofolio.vercel.app
